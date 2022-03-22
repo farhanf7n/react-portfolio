@@ -49,6 +49,10 @@ header {
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
+.me img {
+    width: 87%;
+}
+
 /*=========== SCROLL DOWN ===========*/
 .scroll__down {
     position: absolute;
@@ -73,6 +77,10 @@ header {
     header {
         height: 68vh;
         padding-top: 7rem;
+    }
+
+    .me img {
+        width: 100%;
     }
 }
 
