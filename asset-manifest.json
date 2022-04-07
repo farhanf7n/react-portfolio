@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.56996f84.css",
+    "main.js": "/react-portfolio/static/js/main.ad96fbfd.js",
+    "static/media/me.png": "/react-portfolio/static/media/me.8f165800af7c15e4a0fe.png",
+    "static/media/portfolio5.png": "/react-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/react-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/react-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/cv.pdf": "/react-portfolio/static/media/cv.6394355943662f1fdd1b.pdf",
+    "static/media/portfolio1.jpg": "/react-portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/react-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.56996f84.css.map": "/react-portfolio/static/css/main.56996f84.css.map",
+    "main.ad96fbfd.js.map": "/react-portfolio/static/js/main.ad96fbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56996f84.css",
+    "static/js/main.ad96fbfd.js"
+  ]
+}
